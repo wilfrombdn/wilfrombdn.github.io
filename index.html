@@ -27,12 +27,58 @@
   .meta { font-size:13px; color:var(--muted); display:flex; gap:12px; flex-wrap:wrap; }
   .meta a { color:var(--accent); text-decoration:none; }
   .msg { color:var(--muted); }
+  h2 { font-size:20px; margin:0 0 14px; }
+  .apps { display:grid; gap:14px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); margin-bottom:40px; }
+  .app { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; display:flex; flex-direction:column; gap:10px; }
+  .app-top { display:flex; gap:12px; align-items:center; }
+  .icon { width:52px; height:52px; border-radius:12px; flex:none; display:grid; place-items:center; font-weight:700; font-size:22px;
+          background:var(--bg); border:1px solid var(--line); object-fit:cover; }
+  .app .desc { margin:2px 0 0; min-height:0; }
+  .dl { display:block; text-align:center; background:var(--accent); color:#fff; font-weight:600; text-decoration:none; padding:12px; border-radius:10px; }
+  .dl:hover { filter:brightness(1.1); }
+  .note { font-size:13px; color:var(--muted); }
+  .note a { color:var(--accent); }
+  .how { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 18px; margin:-24px 0 40px; font-size:14px; color:var(--muted); }
+  .how ol { margin:6px 0 0; padding-left:20px; }
 </style>
 </head>
 <body>
 <main>
   <h1>My pages</h1>
-  <p class="sub">Every GitHub Pages site from <a href="https://github.com/wilfrombdn">wilfrombdn</a>. New ones show up here automatically.</p>
+  <p class="sub">Apps and sites from <a href="https://github.com/wilfrombdn">wilfrombdn</a>.</p>
+
+  <h2>Android apps</h2>
+  <div class="apps">
+    <div class="app">
+      <div class="app-top"><img class="icon" src="heavynt/icon.png" alt="">
+        <div><div class="name">Heavyn't</div><div class="desc">Workout tracker with a strength body map.</div></div></div>
+      <a class="dl" href="https://github.com/wilfrombdn/heavynt/releases/latest/download/heavynt.apk">Download .apk</a>
+      <div class="note" data-repo="heavynt">Android 8.0 or newer</div>
+      <div class="note">Moving from the old web version? In it: Settings &rarr; Copy backup. In the app: Settings &rarr; Restore &rarr; Paste from clipboard.</div>
+    </div>
+    <div class="app">
+      <div class="app-top"><div class="icon">&#x1F4FB;</div>
+        <div><div class="name">League Radio</div><div class="desc">Audio-only esports radio. Low data, full schedule and scores.</div></div></div>
+      <a class="dl" href="league-radio/League-Radio.apk" download>Download .apk</a>
+      <div class="note">About 1 MB &middot; Android 8.0 or newer &middot; <a href="league-radio/League-Radio.exe" download>Windows version (.exe)</a></div>
+      <div class="note">Unofficial fan project, not affiliated with Riot Games or Twitch.</div>
+    </div>
+    <div class="app">
+      <div class="app-top"><div class="icon">&#x26AB;</div>
+        <div><div class="name">Badukca</div><div class="desc">Baduk (Go) for Android.</div></div></div>
+      <a class="dl" href="https://github.com/wilfrombdn/Badukca-releases/releases/latest/download/duk.apk">Download .apk</a>
+      <div class="note" data-repo="Badukca-releases">Android app</div>
+    </div>
+  </div>
+  <div class="how"><strong>Installing:</strong>
+    <ol>
+      <li>Open this page on your phone and tap Download.</li>
+      <li>Open the file. If asked, allow installs from your browser.</li>
+      <li>Tap Install. Updates install over the old version and keep your data.</li>
+    </ol>
+  </div>
+
+  <h2>Sites</h2>
   <div class="grid" id="grid"><p class="msg">Loading…</p></div>
 </main>
 <script>
@@ -41,14 +87,26 @@
   const FALLBACK = [
     { name: "converter", description: "" },
     { name: "jpront", description: "" },
-    { name: "league-radio", description: "Audio-only esports radio for Windows and Android" },
   ];
+
+  // These are now just download links in the Android apps section above.
+  const APP_PAGES = ["heavynt", "league-radio"];
+
+  // Show the latest version and size under each app that uses GitHub releases.
+  document.querySelectorAll("[data-repo]").forEach(el => {
+    fetch(`https://api.github.com/repos/${USER}/${el.dataset.repo}/releases/latest`)
+      .then(r => r.ok ? r.json() : Promise.reject(r.status))
+      .then(r => {
+        const a = (r.assets || []).find(x => x.name.endsWith(".apk"));
+        if (a) el.textContent = `${r.tag_name} · ${(a.size / 1048576).toFixed(1)} MB · ${new Date(r.published_at).toLocaleDateString()}`;
+      }).catch(() => {});
+  });
 
   const grid = document.getElementById("grid");
   const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
   function render(repos) {
-    repos = repos.filter(r => r.name.toLowerCase() !== `${USER}.github.io`);
+    repos = repos.filter(r => r.name.toLowerCase() !== `${USER}.github.io` && !APP_PAGES.includes(r.name));
     if (!repos.length) { grid.innerHTML = '<p class="msg">No pages yet.</p>'; return; }
     grid.innerHTML = repos.map(r => {
       const url = `https://${USER}.github.io/${r.name}/`;
