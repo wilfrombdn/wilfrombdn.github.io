@@ -1,11 +1,10 @@
 {
- "code": 35,
- "name": "4.9",
- "apk": "/telegramnt/msngr-4.9.apk",
- "sha256": "680fe91507bef21a0f6131210a7b0a40dc22e6507382d4bd168534cd00be7751",
+ "code": 36,
+ "name": "4.9.1",
+ "apk": "/telegramnt/msngr-4.9.1.apk",
+ "sha256": "3f268602d3fc50bd3501da90c92bf11fe33badc24a64e7f0df9f39d487ced29c",
  "notes": [
-  "New Storage screen (Settings > Storage): see how much each chat uses and clear its photos and videos. The text stays",
-  "Auto-delete old media after 30 days or 1 year, keeping a small blurry preview",
-  "Fix: the app no longer gets stuck on \"Connecting\u2026\""
+  "Settings > Check for updates: check any time and see the result",
+  "The app now checks for updates every time you open it"
  ]
 }
