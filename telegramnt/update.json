@@ -1,10 +1,11 @@
 {
- "code": 36,
- "name": "4.9.1",
- "apk": "/telegramnt/msngr-4.9.1.apk",
- "sha256": "3f268602d3fc50bd3501da90c92bf11fe33badc24a64e7f0df9f39d487ced29c",
+ "code": 37,
+ "name": "5.0",
+ "apk": "/telegramnt/msngr-5.0.apk",
+ "sha256": "e08a8d7929fd7d88f02aa4203f78472156da33439f7b32c05a06378149e60e68",
  "notes": [
-  "Settings > Check for updates: check any time and see the result",
-  "The app now checks for updates every time you open it"
+  "Voice calls with friends: tap the phone next to their name",
+  "Calls are end-to-end encrypted and go through Tor, so nobody sees where you are",
+  "Each call leaves a summary in the chat (outgoing, incoming, missed)"
  ]
 }
