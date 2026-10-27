@@ -1,11 +1,10 @@
 {
- "code": 33,
- "name": "4.8",
- "apk": "/telegramnt/msngr-4.8.apk",
- "sha256": "7b28def18a885ca731298ae2b653b4d79efa713c49086370e4f336dbcb32a2ac",
+ "code": 34,
+ "name": "4.8.1",
+ "apk": "/telegramnt/msngr-4.8.1.apk",
+ "sha256": "76b47566f90fd4158703ca445176ec8b159829f3559b8097d2e7c9e9d045a4bd",
  "notes": [
-  "GIF keyboard: search and send any GIF (powered by GIPHY)",
-  "Your searches go through MSNGR's server, so GIPHY never sees you",
-  "Trending and your recent GIFs show first"
+  "Fixes the app getting stuck on \"Connecting\u2026\" when one message couldn't be read",
+  "The side menu stays open while the app reconnects"
  ]
 }
