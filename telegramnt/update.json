@@ -1,12 +1,11 @@
 {
- "code": 32,
- "name": "4.7",
- "apk": "/telegramnt/msngr-4.7.apk",
- "sha256": "43bbec98e62ac80a35e47a1176ff39306f5476c6c20da94d8a3bcb3aa2f4155d",
+ "code": 33,
+ "name": "4.8",
+ "apk": "/telegramnt/msngr-4.8.apk",
+ "sha256": "7b28def18a885ca731298ae2b653b4d79efa713c49086370e4f336dbcb32a2ac",
  "notes": [
-  "Updates now install right inside the app",
-  "Send GIFs and stickers straight from your phone's keyboard",
-  "GIF tab in the emoji keyboard; GIFs play in chats",
-  "More space between messages, tidier pop-ups"
+  "GIF keyboard: search and send any GIF (powered by GIPHY)",
+  "Your searches go through MSNGR's server, so GIPHY never sees you",
+  "Trending and your recent GIFs show first"
  ]
 }
