@@ -1,11 +1,10 @@
 {
- "code": 41,
- "name": "5.3.1",
- "apk": "/telegramnt/msngr-5.3.1.apk",
- "sha256": "90e6adc85268c246134910ace81d8579fee5f1ba587782a97d4a44ce6d3d03e9",
+ "code": 42,
+ "name": "5.4",
+ "apk": "/telegramnt/msngr-5.4.apk",
+ "sha256": "98e65dc4dcc9db1e6d33463b60797f9432e5d7ba08a26d8652e1c9dfedbe4132",
  "notes": [
-  "Fixed: pressing call now always opens the call screen",
-  "Calls keep trying to connect while it rings, instead of giving up right away",
-  "If a call can't go through, the call screen tells you why"
+  "New in Settings > Connection: Direct, a faster connection for networks that block Tor",
+  "New Settings > Calls checklist so calls ring your phone even when MSNGR is closed"
  ]
 }
