@@ -1,12 +1,12 @@
 {
- "code": 38,
- "name": "5.1",
- "apk": "/telegramnt/msngr-5.1.apk",
- "sha256": "6ec7b0e23b459dbd3aeb234d85fbb4391f01cce5d9a0c2da1eab4a681c7e2b8a",
+ "code": 39,
+ "name": "5.2",
+ "apk": "/telegramnt/msngr-5.2.apk",
+ "sha256": "934c382c522a61f96d1e4368b4606b2c1fdc4b09e7e3506f29248cb47dd3c3b0",
  "notes": [
-  "Voice messages: hold the mic to record, slide up to lock, slide left to cancel",
-  "See when friends are typing, online or last seen (you can hide yours in Settings)",
-  "Edit your sent messages and forward messages to other chats",
-  "Calling now opens the call screen right away"
+  "Mute or block chats, pin chats to the top and pin messages inside a chat",
+  "Search inside messages, keep drafts, and Saved Messages for notes to yourself",
+  "Edit messages while they're still sending, and see who's typing in groups",
+  "Fixes getting stuck on Connecting after an update, and calls wait for the connection"
  ]
 }
