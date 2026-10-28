@@ -1,10 +1,11 @@
 {
- "code": 42,
- "name": "5.4",
- "apk": "/telegramnt/msngr-5.4.apk",
- "sha256": "98e65dc4dcc9db1e6d33463b60797f9432e5d7ba08a26d8652e1c9dfedbe4132",
+ "code": 43,
+ "name": "5.5",
+ "apk": "/telegramnt/msngr-5.5.apk",
+ "sha256": "6e64c83e3083653d2bb0411677941900d42e47df56b5ab068176aa73b876e15c",
  "notes": [
-  "New in Settings > Connection: Direct, a faster connection for networks that block Tor",
-  "New Settings > Calls checklist so calls ring your phone even when MSNGR is closed"
+  "Calls now ring your friend's phone even when MSNGR is closed, like a normal phone call",
+  "The call screen shows Ringing… and rings for 75 seconds before No answer",
+  "Uses empty wake-up pings (nothing readable); switch them off in Settings > Calls"
  ]
 }
