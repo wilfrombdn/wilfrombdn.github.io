@@ -1,12 +1,11 @@
 {
- "code": 40,
- "name": "5.3",
- "apk": "/telegramnt/msngr-5.3.apk",
- "sha256": "a556e92fdd4079175bd2023060974c6832514d2b896e391416f5f9101fd4bb0a",
+ "code": 41,
+ "name": "5.3.1",
+ "apk": "/telegramnt/msngr-5.3.1.apk",
+ "sha256": "90e6adc85268c246134910ace81d8579fee5f1ba587782a97d4a44ce6d3d03e9",
  "notes": [
-  "Round video messages (tap the mic to switch), stickers, polls in groups and location sharing",
-  "Bold, italic and spoiler text, link previews, and @mentions in groups",
-  "Hold send to send silently or schedule a message; archive chats; reply from notifications",
-  "Your own QR code in the side menu, and scanning a friend's to add them"
+  "Fixed: pressing call now always opens the call screen",
+  "Calls keep trying to connect while it rings, instead of giving up right away",
+  "If a call can't go through, the call screen tells you why"
  ]
 }
