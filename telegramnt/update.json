@@ -1,12 +1,12 @@
 {
- "code": 39,
- "name": "5.2",
- "apk": "/telegramnt/msngr-5.2.apk",
- "sha256": "934c382c522a61f96d1e4368b4606b2c1fdc4b09e7e3506f29248cb47dd3c3b0",
+ "code": 40,
+ "name": "5.3",
+ "apk": "/telegramnt/msngr-5.3.apk",
+ "sha256": "a556e92fdd4079175bd2023060974c6832514d2b896e391416f5f9101fd4bb0a",
  "notes": [
-  "Mute or block chats, pin chats to the top and pin messages inside a chat",
-  "Search inside messages, keep drafts, and Saved Messages for notes to yourself",
-  "Edit messages while they're still sending, and see who's typing in groups",
-  "Fixes getting stuck on Connecting after an update, and calls wait for the connection"
+  "Round video messages (tap the mic to switch), stickers, polls in groups and location sharing",
+  "Bold, italic and spoiler text, link previews, and @mentions in groups",
+  "Hold send to send silently or schedule a message; archive chats; reply from notifications",
+  "Your own QR code in the side menu, and scanning a friend's to add them"
  ]
 }
