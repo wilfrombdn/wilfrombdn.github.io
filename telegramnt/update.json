@@ -1,11 +1,12 @@
 {
- "code": 37,
- "name": "5.0",
- "apk": "/telegramnt/msngr-5.0.apk",
- "sha256": "e08a8d7929fd7d88f02aa4203f78472156da33439f7b32c05a06378149e60e68",
+ "code": 38,
+ "name": "5.1",
+ "apk": "/telegramnt/msngr-5.1.apk",
+ "sha256": "6ec7b0e23b459dbd3aeb234d85fbb4391f01cce5d9a0c2da1eab4a681c7e2b8a",
  "notes": [
-  "Voice calls with friends: tap the phone next to their name",
-  "Calls are end-to-end encrypted and go through Tor, so nobody sees where you are",
-  "Each call leaves a summary in the chat (outgoing, incoming, missed)"
+  "Voice messages: hold the mic to record, slide up to lock, slide left to cancel",
+  "See when friends are typing, online or last seen (you can hide yours in Settings)",
+  "Edit your sent messages and forward messages to other chats",
+  "Calling now opens the call screen right away"
  ]
 }
