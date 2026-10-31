@@ -1,11 +1,11 @@
 {
- "code": 43,
- "name": "5.5",
- "apk": "/telegramnt/msngr-5.5.apk",
- "sha256": "6e64c83e3083653d2bb0411677941900d42e47df56b5ab068176aa73b876e15c",
+ "code": 44,
+ "name": "5.6",
+ "apk": "/telegramnt/msngr-5.6.apk",
+ "sha256": "69a88c5bb9d2fc3d0a18c9447a2d97bfaec86e8bec763575e5f254c5f8cc8f95",
  "notes": [
-  "Calls now ring your friend's phone even when MSNGR is closed, like a normal phone call",
-  "The call screen shows Ringing… and rings for 75 seconds before No answer",
-  "Uses empty wake-up pings (nothing readable); switch them off in Settings > Calls"
+  "MSNGR is now called quipu",
+  "New round chat-bubble icon",
+  "Fixes getting stuck on Connecting… after the server was down: the app now fixes itself"
  ]
 }
