@@ -1,11 +1,12 @@
 {
- "code": 47,
- "name": "5.9",
- "apk": "/telegramnt/msngr-5.9.apk",
- "sha256": "cf19c6c3ed4aa81d507429d1896408f811caa78e0030d5b342a0432a1d5ecd27",
+ "code": 48,
+ "name": "6.0",
+ "apk": "/telegramnt/msngr-6.0.apk",
+ "sha256": "3070294d8a1a8531a56407943ef6639fbeb15652c21a9dcd80fef5c66f3d387e",
  "notes": [
-  "Fixes Tor getting stuck on Starting Tor: the app has a newer Tor the network accepts",
-  "If Tor ever gets too old again, the app tells you and can still update itself",
-  "New rounded chat-bubble logo"
+  "Calls fixed: the call screen stays open and End Call really hangs up",
+  "New Telegram-style call screen, with 4 emoji to check the call is private",
+  "Green bar at the top takes you back to a call you left",
+  "New welcome line"
  ]
 }
