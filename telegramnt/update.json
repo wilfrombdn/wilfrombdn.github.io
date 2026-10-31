@@ -1,10 +1,11 @@
 {
- "code": 46,
- "name": "5.8",
- "apk": "/telegramnt/msngr-5.8.apk",
- "sha256": "44d7c915a6b2755299ff0a55cebe7a8d528f5732fb38830a6450b64912f71312",
+ "code": 47,
+ "name": "5.9",
+ "apk": "/telegramnt/msngr-5.9.apk",
+ "sha256": "cf19c6c3ed4aa81d507429d1896408f811caa78e0030d5b342a0432a1d5ecd27",
  "notes": [
-  "If Tor gets stuck starting, the app now starts it again fresh by itself",
-  "New Tor details in Settings > Connection to see and copy what Tor is doing"
+  "Fixes Tor getting stuck on Starting Tor: the app has a newer Tor the network accepts",
+  "If Tor ever gets too old again, the app tells you and can still update itself",
+  "New rounded chat-bubble logo"
  ]
 }
