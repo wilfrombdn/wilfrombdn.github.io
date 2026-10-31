@@ -1,10 +1,11 @@
 {
- "code": 50,
- "name": "6.2",
- "apk": "/telegramnt/msngr-6.2.apk",
- "sha256": "a26f811fa5678250bbf7630f99d32d9a07beb933fe430e400d4db7d9e8d711a0",
+ "code": 51,
+ "name": "6.3",
+ "apk": "/telegramnt/msngr-6.3.apk",
+ "sha256": "b3605703b69c0d1d9b9c14442b89245ffb3d52eb970b9a276ad889c5346846a2",
  "notes": [
-  "Share photos, videos, files and links to quipu from any app (tap Share, then quipu)",
-  "Pick the chat or group and it's sent"
+  "App lock: fingerprint, face or PIN to open quipu (Settings > Privacy, off unless you turn it on)",
+  "View once photos: attach > View once photo, gone after one look",
+  "Option to hide who messages are from in notifications"
  ]
 }
