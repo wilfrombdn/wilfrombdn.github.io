@@ -1,11 +1,11 @@
 {
- "code": 44,
- "name": "5.6",
- "apk": "/telegramnt/msngr-5.6.apk",
- "sha256": "69a88c5bb9d2fc3d0a18c9447a2d97bfaec86e8bec763575e5f254c5f8cc8f95",
+ "code": 45,
+ "name": "5.7",
+ "apk": "/telegramnt/msngr-5.7.apk",
+ "sha256": "a66aeed29af8c6246b084100b8a31668131e07f66164e6e2c01f7726d392f48e",
  "notes": [
-  "MSNGR is now called quipu",
-  "New round chat-bubble icon",
-  "Fixes getting stuck on Connecting… after the server was down: the app now fixes itself"
+  "If connecting takes a while, the start screen now shows what's happening and lets you connect directly instead",
+  "Small TOR label next to quipu when you're connected through Tor",
+  "Smaller bubble in the app icon"
  ]
 }
