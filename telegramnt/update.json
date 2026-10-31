@@ -1,11 +1,10 @@
 {
- "code": 45,
- "name": "5.7",
- "apk": "/telegramnt/msngr-5.7.apk",
- "sha256": "a66aeed29af8c6246b084100b8a31668131e07f66164e6e2c01f7726d392f48e",
+ "code": 46,
+ "name": "5.8",
+ "apk": "/telegramnt/msngr-5.8.apk",
+ "sha256": "44d7c915a6b2755299ff0a55cebe7a8d528f5732fb38830a6450b64912f71312",
  "notes": [
-  "If connecting takes a while, the start screen now shows what's happening and lets you connect directly instead",
-  "Small TOR label next to quipu when you're connected through Tor",
-  "Smaller bubble in the app icon"
+  "If Tor gets stuck starting, the app now starts it again fresh by itself",
+  "New Tor details in Settings > Connection to see and copy what Tor is doing"
  ]
 }
