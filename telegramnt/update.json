@@ -1,12 +1,12 @@
 {
- "code": 48,
- "name": "6.0",
- "apk": "/telegramnt/msngr-6.0.apk",
- "sha256": "3070294d8a1a8531a56407943ef6639fbeb15652c21a9dcd80fef5c66f3d387e",
+ "code": 49,
+ "name": "6.1",
+ "apk": "/telegramnt/msngr-6.1.apk",
+ "sha256": "55349357cf445028f7e45e67639b415c16390a6963a5bb193183044b4c4a7e4f",
  "notes": [
-  "Calls fixed: the call screen stays open and End Call really hangs up",
-  "New Telegram-style call screen, with 4 emoji to check the call is private",
-  "Green bar at the top takes you back to a call you left",
-  "New welcome line"
+  "Your QR code is now on your profile; New Message has Scan QR code to add a friend",
+  "Call bar in chats too, and Return to call / Hang up in the call notification",
+  "Option to only download photos, GIFs and videos when you tap them (Settings > Storage)",
+  "Settings shows when you're connected without reopening it"
  ]
 }
