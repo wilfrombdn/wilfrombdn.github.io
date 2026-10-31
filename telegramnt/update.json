@@ -1,11 +1,11 @@
 {
- "code": 51,
- "name": "6.3",
- "apk": "/telegramnt/msngr-6.3.apk",
- "sha256": "b3605703b69c0d1d9b9c14442b89245ffb3d52eb970b9a276ad889c5346846a2",
+ "code": 52,
+ "name": "6.4",
+ "apk": "/telegramnt/msngr-6.4.apk",
+ "sha256": "c9a702011a3f7cc54683e379a9722c2e0dfb496257c80a368c4e64e6d9834257",
  "notes": [
-  "App lock: fingerprint, face or PIN to open quipu (Settings > Privacy, off unless you turn it on)",
-  "View once photos: attach > View once photo, gone after one look",
-  "Option to hide who messages are from in notifications"
+  "Videos you send no longer carry where and when they were filmed",
+  "In groups, nobody can fake deleting someone else's message",
+  "Your backup file no longer shows your username (type it when restoring)"
  ]
 }
