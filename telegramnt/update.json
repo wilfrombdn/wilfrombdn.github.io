@@ -1,12 +1,12 @@
 {
- "code": 53,
- "name": "6.5",
- "apk": "/telegramnt/tellem-6.5.apk",
- "sha256": "5d356573af97916e128ee56ac88d5e4b812ed3d0e03fd521294b5cb6778ea29f",
+ "code": 54,
+ "name": "6.6",
+ "apk": "/telegramnt/tellem-6.6.apk",
+ "sha256": "7744c092da0814bd9edd6ea9d0708fa17254c86b743ec68054555c714f3772f2",
  "notes": [
-  "quipu is now called Tellem",
-  "Message notifications show who wrote and what they said, with Reply (you can turn the text off in Settings > Privacy)",
-  "A call that isn't answered now shows as a missed call on both phones",
-  "Messages sent before you became friends no longer go missing"
+  "Tellem can now be your phone's texting app: normal, picture and group texts (Settings > Texting)",
+  "Normal texts have green bubbles and an SMS tag, and aren't encrypted. Keep private things in Tellem chats",
+  "Texts get their own tab, or show them together with chats in Settings",
+  "Round video messages send again"
  ]
 }
