@@ -1,12 +1,10 @@
 {
- "code": 54,
- "name": "6.6",
- "apk": "/telegramnt/tellem-6.6.apk",
- "sha256": "7744c092da0814bd9edd6ea9d0708fa17254c86b743ec68054555c714f3772f2",
+ "code": 55,
+ "name": "6.6.1",
+ "apk": "/telegramnt/tellem-6.6.1.apk",
+ "sha256": "9834cdd932b951efde4b41047dd0ff8b0734876bde685cdc7569b591ed6ac3bf",
  "notes": [
-  "Tellem can now be your phone's texting app: normal, picture and group texts (Settings > Texting)",
-  "Normal texts have green bubbles and an SMS tag, and aren't encrypted. Keep private things in Tellem chats",
-  "Texts get their own tab, or show them together with chats in Settings",
-  "Round video messages send again"
+  "Fixed: some phones kept saying \"make Tellem your texting app\" even when it already was, so texts couldn't be sent",
+  "A text chat now updates right away when you make Tellem your texting app"
  ]
 }
