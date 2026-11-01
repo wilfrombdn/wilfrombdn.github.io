@@ -1,11 +1,12 @@
 {
- "code": 52,
- "name": "6.4",
- "apk": "/telegramnt/msngr-6.4.apk",
- "sha256": "c9a702011a3f7cc54683e379a9722c2e0dfb496257c80a368c4e64e6d9834257",
+ "code": 53,
+ "name": "6.5",
+ "apk": "/telegramnt/tellem-6.5.apk",
+ "sha256": "5d356573af97916e128ee56ac88d5e4b812ed3d0e03fd521294b5cb6778ea29f",
  "notes": [
-  "Videos you send no longer carry where and when they were filmed",
-  "In groups, nobody can fake deleting someone else's message",
-  "Your backup file no longer shows your username (type it when restoring)"
+  "quipu is now called Tellem",
+  "Message notifications show who wrote and what they said, with Reply (you can turn the text off in Settings > Privacy)",
+  "A call that isn't answered now shows as a missed call on both phones",
+  "Messages sent before you became friends no longer go missing"
  ]
 }
