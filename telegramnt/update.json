@@ -1,11 +1,10 @@
 {
- "code": 59,
- "name": "7.0",
- "apk": "/telegramnt/tellem-7.0.apk",
- "sha256": "ae570536655d5ecd2864141a927a5bcccb107b1139fbdb73db36fc93f3032c96",
+ "code": 60,
+ "name": "7.0.1",
+ "apk": "/telegramnt/tellem-7.0.1.apk",
+ "sha256": "318538e2d5277dd99ce261e69eda90e1a150afadc2c937d0a4d64e079dd9b57b",
  "notes": [
-  "Tellem can now be your phone app: answer, decline, mute, speaker, hold and keypad, plus a dial pad",
-  "Turn it on in Settings under Phone calls",
-  "Missed calls show up as a notification"
+  "Fixed Tellem closing when you place a phone call",
+  "The Chats / Phone tabs are gone: tap Tellem (or Phone) at the top to switch, and unread counts show beside it"
  ]
 }
