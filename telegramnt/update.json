@@ -1,12 +1,11 @@
 {
- "code": 58,
- "name": "6.9",
- "apk": "/telegramnt/tellem-6.9.apk",
- "sha256": "95925c40f572d3d453b3eb4e0a5f65f48f0b1e74e7e335c9185742cf69262a0f",
+ "code": 59,
+ "name": "7.0",
+ "apk": "/telegramnt/tellem-7.0.apk",
+ "sha256": "ae570536655d5ecd2864141a927a5bcccb107b1139fbdb73db36fc93f3032c96",
  "notes": [
-  "Texts: pin chats, a Codes folder for login codes, Not spam / clear all in Spam, and a people list for group texts",
-  "Tap Tellem at the top to flip between chats and the Phone screen; new switch to allow screenshots",
-  "Text chats remember your place, and Phone search keeps the keyboard open",
-  "Updates now pick up where they left off if the connection drops"
+  "Tellem can now be your phone app: answer, decline, mute, speaker, hold and keypad, plus a dial pad",
+  "Turn it on in Settings under Phone calls",
+  "Missed calls show up as a notification"
  ]
 }
