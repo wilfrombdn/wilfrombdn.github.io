@@ -1,10 +1,11 @@
 {
- "code": 60,
- "name": "7.0.1",
- "apk": "/telegramnt/tellem-7.0.1.apk",
- "sha256": "318538e2d5277dd99ce261e69eda90e1a150afadc2c937d0a4d64e079dd9b57b",
+ "code": 61,
+ "name": "7.1",
+ "apk": "/telegramnt/tellem-7.1.apk",
+ "sha256": "8907aa7f4a0376945be0512c494f4d40ca377b7acff6bedbac336de7572535c4",
  "notes": [
-  "Fixed Tellem closing when you place a phone call",
-  "The Chats / Phone tabs are gone: tap Tellem (or Phone) at the top to switch, and unread counts show beside it"
+  "Swipe a chat to the right to pin it (works for Tellem chats, groups and texts)",
+  "In a text with someone who isn't a contact, the menu has Add to contacts with their number filled in",
+  "Codes and Spam & blocked now sit at the top of your texts"
  ]
 }
