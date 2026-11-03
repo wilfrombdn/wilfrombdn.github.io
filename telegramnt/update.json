@@ -1,11 +1,12 @@
 {
- "code": 56,
- "name": "6.7",
- "apk": "/telegramnt/tellem-6.7.apk",
- "sha256": "c21835f82637aa3a08f8c579ebce47db53cdd6659fb9b6b856bce04ca520a1a7",
+ "code": 58,
+ "name": "6.9",
+ "apk": "/telegramnt/tellem-6.9.apk",
+ "sha256": "95925c40f572d3d453b3eb4e0a5f65f48f0b1e74e7e335c9185742cf69262a0f",
  "notes": [
-  "New Phone tab: your texts, call history and contacts in one place",
-  "Spam texts go to a quiet Spam folder, and you can block numbers (all decided on your phone)",
-  "Text chats no longer jump around and stay at the newest message"
+  "Texts: pin chats, a Codes folder for login codes, Not spam / clear all in Spam, and a people list for group texts",
+  "Tap Tellem at the top to flip between chats and the Phone screen; new switch to allow screenshots",
+  "Text chats remember your place, and Phone search keeps the keyboard open",
+  "Updates now pick up where they left off if the connection drops"
  ]
 }
