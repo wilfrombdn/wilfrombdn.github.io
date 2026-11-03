@@ -1,11 +1,12 @@
 {
- "code": 61,
- "name": "7.1",
- "apk": "/telegramnt/tellem-7.1.apk",
- "sha256": "8907aa7f4a0376945be0512c494f4d40ca377b7acff6bedbac336de7572535c4",
+ "code": 62,
+ "name": "7.1.1",
+ "apk": "/telegramnt/tellem-7.1.1.apk",
+ "sha256": "05bd8db750147f850b9f97274b758bcd3fbdaba055bf7c04fe78ccffa304e362",
  "notes": [
-  "Swipe a chat to the right to pin it (works for Tellem chats, groups and texts)",
-  "In a text with someone who isn't a contact, the menu has Add to contacts with their number filled in",
-  "Codes and Spam & blocked now sit at the top of your texts"
+  "Login and verification codes now notify like normal texts; real spam never notifies",
+  "You can reply from the lock screen without your passcode (Settings, can be turned off)",
+  "A banner warns when your phone settings could delay messages",
+  "Phone tabs are now Contacts, Calls, Texts"
  ]
 }
