@@ -1,12 +1,12 @@
 {
- "code": 63,
- "name": "7.2",
- "apk": "/telegramnt/tellem-7.2.apk",
- "sha256": "c352825a8fc8dda73b5748bb32c12a77d5ef235b7caf31ff44187e88fd927321",
+ "code": 64,
+ "name": "7.3",
+ "apk": "/telegramnt/tellem-7.3.apk",
+ "sha256": "d8dd4e7d7819816f8827f3d0135417e4b69a4031c89fa198b4ae340fcfd238d8",
  "notes": [
-  "Add contacts right inside Tellem (plus button on the Contacts tab, and Add to contacts from a text)",
-  "Search no longer flashes while you type",
-  "Cleaner title: Tellem ⇄ Phone swaps with a small slide",
-  "Softer light mode: gentler colours, nothing moved"
+  "Phone numbers format themselves as you type",
+  "Texts: swipe right to send a chat to spam right away; hold a chat to pin or archive it",
+  "New Archive folder next to Codes and Spam",
+  "Settings: choose where those folders live (top, bottom, side menu or their own tab)"
  ]
 }
