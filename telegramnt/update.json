@@ -1,12 +1,10 @@
 {
- "code": 64,
- "name": "7.3",
- "apk": "/telegramnt/tellem-7.3.apk",
- "sha256": "d8dd4e7d7819816f8827f3d0135417e4b69a4031c89fa198b4ae340fcfd238d8",
+ "code": 65,
+ "name": "7.3.1",
+ "apk": "/telegramnt/tellem-7.3.1.apk",
+ "sha256": "2d4c872caa97961b9a3c567c0ef37363d8ff5ab91485c4c188909f6c40a0b538",
  "notes": [
-  "Phone numbers format themselves as you type",
-  "Texts: swipe right to send a chat to spam right away; hold a chat to pin or archive it",
-  "New Archive folder next to Codes and Spam",
-  "Settings: choose where those folders live (top, bottom, side menu or their own tab)"
+  "The Archive, Codes and Spam folders always show, even when empty",
+  "The side menu changes with the screen: private chat options on Tellem, texts, dial pad and contacts on Phone"
  ]
 }
