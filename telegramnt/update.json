@@ -1,12 +1,12 @@
 {
- "code": 62,
- "name": "7.1.1",
- "apk": "/telegramnt/tellem-7.1.1.apk",
- "sha256": "05bd8db750147f850b9f97274b758bcd3fbdaba055bf7c04fe78ccffa304e362",
+ "code": 63,
+ "name": "7.2",
+ "apk": "/telegramnt/tellem-7.2.apk",
+ "sha256": "c352825a8fc8dda73b5748bb32c12a77d5ef235b7caf31ff44187e88fd927321",
  "notes": [
-  "Login and verification codes now notify like normal texts; real spam never notifies",
-  "You can reply from the lock screen without your passcode (Settings, can be turned off)",
-  "A banner warns when your phone settings could delay messages",
-  "Phone tabs are now Contacts, Calls, Texts"
+  "Add contacts right inside Tellem (plus button on the Contacts tab, and Add to contacts from a text)",
+  "Search no longer flashes while you type",
+  "Cleaner title: Tellem ⇄ Phone swaps with a small slide",
+  "Softer light mode: gentler colours, nothing moved"
  ]
 }
