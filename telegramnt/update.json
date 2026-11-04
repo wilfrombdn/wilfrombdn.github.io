@@ -1,12 +1,11 @@
 {
- "code": 75,
- "name": "8.0",
- "apk": "/telegramnt/tellem-8.0.apk",
- "sha256": "cf3076fdb4c1fe09667f4fb3c1ab16b4a18c848dcf17f65773aacbeafe63d848",
+ "code": 76,
+ "name": "8.1",
+ "apk": "/telegramnt/tellem-8.1.apk",
+ "sha256": "83e1d40f21df94919ad608649850a777901748abed20931e699907a8768664ce",
  "notes": [
-  "Phone screen: swipe left or right to move between Contacts, Calls and Texts; hold a text for half a second, then swipe to archive (envelope) or delete",
-  "Swipe right from the very left edge to pull out the sidebar; tapping empty space on the sidebar no longer taps the screen behind it",
-  "The round button moved up and toward the middle, easier to reach with either thumb",
-  "Tellem | Phone switch changes screens when you tap anywhere on it"
+  "Smooth slide between Contacts, Calls and Texts that follows your finger, and a slide when you switch between Tellem and Phone",
+  "Hold the round button and it fills up like a balloon, then pops into a camera",
+  "New Animations switch in Settings turns all of these off (on by default)"
  ]
 }
