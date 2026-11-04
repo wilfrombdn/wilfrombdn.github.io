@@ -1,10 +1,10 @@
 {
- "code": 77,
- "name": "8.2",
- "apk": "/telegramnt/tellem-8.2.apk",
- "sha256": "ad54a736974d25557629c9105a27f5a96e1517e391b779bf99519b72f64e2721",
+ "code": 78,
+ "name": "8.3",
+ "apk": "/telegramnt/tellem-8.3.apk",
+ "sha256": "0441b8e3b07e4cfa07c53f547ae2bdcab7f14c93e2668e2b7f67cb54b4f95f30",
  "notes": [
-  "Animations now work on every phone, even ones with phone animations turned off; the Animations switch in Settings controls them",
-  "When an update comes out while Tellem is open, the update pop-up now appears by itself within about a minute"
+  "Slides between tabs and between Tellem and Phone are much smoother",
+  "The inflating camera button now rises a little toward the upper right as it fills"
  ]
 }
