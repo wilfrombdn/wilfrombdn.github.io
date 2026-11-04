@@ -1,10 +1,11 @@
 {
- "code": 65,
- "name": "7.3.1",
- "apk": "/telegramnt/tellem-7.3.1.apk",
- "sha256": "2d4c872caa97961b9a3c567c0ef37363d8ff5ab91485c4c188909f6c40a0b538",
+ "code": 67,
+ "name": "7.3.3",
+ "apk": "/telegramnt/tellem-7.3.3.apk",
+ "sha256": "88e91cd74f74a8f2cc90c7b8c1d888cc871d479d4cf33ca12cdd422794f8492a",
  "notes": [
-  "The Archive, Codes and Spam folders always show, even when empty",
-  "The side menu changes with the screen: private chat options on Tellem, texts, dial pad and contacts on Phone"
+  "Fixed the dial pad: proper round keys with letters, and the number formats as you type",
+  "Phone call screen is now dark grey to match the app",
+  "Green SMS tags are gone from your texts (kept only if texts are shown together with chats)"
  ]
 }
