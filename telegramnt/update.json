@@ -1,11 +1,11 @@
 {
- "code": 95,
- "name": "10.2",
- "apk": "/telegramnt/tellem-10.2.apk",
- "sha256": "85b5533ef2b7dbb1dbc9cf671153788e39bcc21fa6dd918b746c23b0371df1f2",
+ "code": 96,
+ "name": "10.3",
+ "apk": "/telegramnt/tellem-10.3.apk",
+ "sha256": "5139742bcd0da84c9aaa45f87f033df7aa67ecb71b063901562586f3e824c44d",
  "notes": [
-  "Hold-vibration now works properly, and happens instantly",
-  "New setting: a small classic tap vibration on every tap (off by default)",
-  "The round button goes back to opening the camera by itself, and no longer slides"
+  "Cleaner pop-ups: square corners, buttons in the bottom right",
+  "Contacts: tap the pencil in the top corner to edit",
+  "The scroll bar only shows while you scroll, so it no longer flickers when you swipe between screens"
  ]
 }
