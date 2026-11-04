@@ -1,11 +1,11 @@
 {
- "code": 67,
- "name": "7.3.3",
- "apk": "/telegramnt/tellem-7.3.3.apk",
- "sha256": "88e91cd74f74a8f2cc90c7b8c1d888cc871d479d4cf33ca12cdd422794f8492a",
+ "code": 69,
+ "name": "7.4",
+ "apk": "/telegramnt/tellem-7.4.apk",
+ "sha256": "fe143173acf9201855b560c7452d2fd25d1a6b31afdf5e32c6d7037bb2324f7d",
  "notes": [
-  "Fixed the dial pad: proper round keys with letters, and the number formats as you type",
-  "Phone call screen is now dark grey to match the app",
-  "Green SMS tags are gone from your texts (kept only if texts are shown together with chats)"
+  "New dial pad layout, centred like a normal phone, with Create contact and Send message once you type a number",
+  "Phone numbers now look like +1 (555) 123-4567 everywhere you type them",
+  "Texts: swipe right to archive a chat right away (hold a chat for Move to spam)"
  ]
 }
