@@ -1,10 +1,10 @@
 {
- "code": 86,
- "name": "9.3",
- "apk": "/telegramnt/tellem-9.3.apk",
- "sha256": "3546515ff21a4c4c2b420029386793778ad095b20d2c02aa7fdb7d3d5670a0be",
+ "code": 87,
+ "name": "9.4",
+ "apk": "/telegramnt/tellem-9.4.apk",
+ "sha256": "65a3b2b0e7008929447b03a056eca5850acc347b0931aec1dd7f95b5688c8b21",
  "notes": [
-  "New: Tellem now speaks Russian and Ukrainian. It follows your phone's language, or pick one in Settings under Language",
-  "Sign-up now correctly says passwords need at least 12 characters"
+  "Fixes Tellem not opening on some phones after 9.3",
+  "Russian and Ukrainian are paused for now and will come back once fixed"
  ]
 }
