@@ -1,10 +1,10 @@
 {
- "code": 78,
- "name": "8.3",
- "apk": "/telegramnt/tellem-8.3.apk",
- "sha256": "0441b8e3b07e4cfa07c53f547ae2bdcab7f14c93e2668e2b7f67cb54b4f95f30",
+ "code": 79,
+ "name": "8.4",
+ "apk": "/telegramnt/tellem-8.4.apk",
+ "sha256": "d9699ae85a169ff2b0c765cacab9f444d3ee9b07d8b2c00de9d5e1d34f20f73a",
  "notes": [
-  "Slides between tabs and between Tellem and Phone are much smoother",
-  "The inflating camera button now rises a little toward the upper right as it fills"
+  "Edit contacts: open a contact and tap Edit contact (first option) to change the name, numbers or email, then Save or Cancel",
+  "Tapping a call in your Calls list now opens the same Call or Text pop-up as Contacts, with Add to contacts for numbers you haven't saved"
  ]
 }
