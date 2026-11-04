@@ -1,13 +1,11 @@
 {
- "code": 94,
- "name": "10.1",
- "apk": "/telegramnt/tellem-10.1.apk",
- "sha256": "b7a82536078f83f0f5aee7d9c3911d07ae53552fb1000cea8836cc721a791c20",
+ "code": 95,
+ "name": "10.2",
+ "apk": "/telegramnt/tellem-10.2.apk",
+ "sha256": "85b5533ef2b7dbb1dbc9cf671153788e39bcc21fa6dd918b746c23b0371df1f2",
  "notes": [
-  "Only one call opens at a time in the calls list, and they close when you leave",
-  "Fixed the keyboard coming back up after you closed it and changed screens",
-  "Hold the round button for 3 seconds to slide it left or right",
-  "Cleaner, more modern pop-ups and menus, and softer slide animations",
-  "New setting to buzz when a hold works (off by default)"
+  "Hold-vibration now works properly, and happens instantly",
+  "New setting: a small classic tap vibration on every tap (off by default)",
+  "The round button goes back to opening the camera by itself, and no longer slides"
  ]
 }
