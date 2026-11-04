@@ -1,10 +1,13 @@
 {
- "code": 93,
- "name": "10.0",
- "apk": "/telegramnt/tellem-10.0.apk",
- "sha256": "c6cdeabfe5edf1ec89d1d759e2bfbbd279fe5f315a68617ac0fedbef1d7cd4f0",
+ "code": 94,
+ "name": "10.1",
+ "apk": "/telegramnt/tellem-10.1.apk",
+ "sha256": "b7a82536078f83f0f5aee7d9c3911d07ae53552fb1000cea8836cc721a791c20",
  "notes": [
-  "Calls list is simpler: tap a call to open it down with its details and Call, Text, Contact and Copy buttons",
-  "Pictures removed from the calls list"
+  "Only one call opens at a time in the calls list, and they close when you leave",
+  "Fixed the keyboard coming back up after you closed it and changed screens",
+  "Hold the round button for 3 seconds to slide it left or right",
+  "Cleaner, more modern pop-ups and menus, and softer slide animations",
+  "New setting to buzz when a hold works (off by default)"
  ]
 }
