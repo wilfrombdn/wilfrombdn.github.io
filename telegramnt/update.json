@@ -1,11 +1,9 @@
 {
- "code": 84,
- "name": "9.1",
- "apk": "/telegramnt/tellem-9.1.apk",
- "sha256": "a6dee86e10517206736a68ae21475e0e092fa2466fb5cbad7bb3bbeaa2a06e74",
+ "code": 85,
+ "name": "9.2",
+ "apk": "/telegramnt/tellem-9.2.apk",
+ "sha256": "9856aa96441808e461a520ae1a460b1c5869ccfe3e0e511ec51a997c4cd84625",
  "notes": [
-  "Camera: backing out of a recording now resets the red button and timer, the X is centred, and the flash lightning bolt stays visible when it is on",
-  "Texts: the paperclip in a text conversation now offers Camera as well as Photo",
-  "Settings: Direct is now listed above Tor"
+  "Texts: the three-dot menu in a text conversation now has Edit contact for people in your contacts"
  ]
 }
