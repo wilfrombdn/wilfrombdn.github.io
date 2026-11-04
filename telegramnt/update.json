@@ -1,12 +1,11 @@
 {
- "code": 83,
- "name": "9.0",
- "apk": "/telegramnt/tellem-9.0.apk",
- "sha256": "0560ab29393d1fd4a54736d36c216a2f887176c427cf25e76f90c9c4a69b961b",
+ "code": 84,
+ "name": "9.1",
+ "apk": "/telegramnt/tellem-9.1.apk",
+ "sha256": "a6dee86e10517206736a68ae21475e0e092fa2466fb5cbad7bb3bbeaa2a06e74",
  "notes": [
-  "Security update: the app now checks who it is connecting to, and Direct mode warns you what it shows before you turn it on",
-  "Passwords are protected much more strongly: older accounts upgrade the next time you log in, and new passwords need 12 or more characters",
-  "Group invites now ask you first, and scanning a friend's QR code makes sure it really is them",
-  "Wake-up pings through Google are now off until you turn them on in Settings, under Calls"
+  "Camera: backing out of a recording now resets the red button and timer, the X is centred, and the flash lightning bolt stays visible when it is on",
+  "Texts: the paperclip in a text conversation now offers Camera as well as Photo",
+  "Settings: Direct is now listed above Tor"
  ]
 }
