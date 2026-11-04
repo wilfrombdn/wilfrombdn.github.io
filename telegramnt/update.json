@@ -1,11 +1,11 @@
 {
- "code": 80,
- "name": "8.5",
- "apk": "/telegramnt/tellem-8.5.apk",
- "sha256": "02b4fccb72d8165b632169e5da239fc272c5117f6d43e0fcd908120e204c1710",
+ "code": 81,
+ "name": "8.6",
+ "apk": "/telegramnt/tellem-8.6.apk",
+ "sha256": "865f903da7bd45598fb59ecf342d0a6756ab755fa07119bbf366df43a3557635",
  "notes": [
-  "New contact and Edit contact screens redone: big initials circle, a tidy name and number layout, labels you can tap (Mobile, Home, Work, Other), several numbers and emails, and Save up top",
-  "Edit contact is now only in the Contacts pop-up, not the Calls one",
-  "Fast taps between tabs and between Tellem and Phone no longer pile up, so the slides stay smooth"
+  "Speaker button on Tellem calls now works on newer Android phones",
+  "Contacts: add a Company, and tap the circle to give a contact your own photo; sort button next to search (name or email, A to Z or Z to A, group by company)",
+  "Every text box in the app is now a clean rounded box instead of a thin line"
  ]
 }
