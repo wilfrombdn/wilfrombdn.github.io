@@ -1,12 +1,12 @@
 {
- "code": 82,
- "name": "8.7",
- "apk": "/telegramnt/tellem-8.7.apk",
- "sha256": "6b5eb95053b5716d5c4bc7bb771ffaa225ec838c0aa24613ca056bbd048dfa05",
+ "code": 83,
+ "name": "9.0",
+ "apk": "/telegramnt/tellem-9.0.apk",
+ "sha256": "0560ab29393d1fd4a54736d36c216a2f887176c427cf25e76f90c9c4a69b961b",
  "notes": [
-  "Contact pop-up now shows company and email: tap an email to write to them in an email app, hold a number or email to copy it",
-  "Tap and hold the round button: Snap opens by itself at the end of the hold; the button no longer jumps around between tabs and screens",
-  "Contact screen spacing tidied up; Animations setting moved into Appearance",
-  "Speaker button on Tellem calls now also works while the call is still ringing"
+  "Security update: the app now checks who it is connecting to, and Direct mode warns you what it shows before you turn it on",
+  "Passwords are protected much more strongly: older accounts upgrade the next time you log in, and new passwords need 12 or more characters",
+  "Group invites now ask you first, and scanning a friend's QR code makes sure it really is them",
+  "Wake-up pings through Google are now off until you turn them on in Settings, under Calls"
  ]
 }
