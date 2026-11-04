@@ -1,9 +1,10 @@
 {
- "code": 85,
- "name": "9.2",
- "apk": "/telegramnt/tellem-9.2.apk",
- "sha256": "9856aa96441808e461a520ae1a460b1c5869ccfe3e0e511ec51a997c4cd84625",
+ "code": 86,
+ "name": "9.3",
+ "apk": "/telegramnt/tellem-9.3.apk",
+ "sha256": "3546515ff21a4c4c2b420029386793778ad095b20d2c02aa7fdb7d3d5670a0be",
  "notes": [
-  "Texts: the three-dot menu in a text conversation now has Edit contact for people in your contacts"
+  "New: Tellem now speaks Russian and Ukrainian. It follows your phone's language, or pick one in Settings under Language",
+  "Sign-up now correctly says passwords need at least 12 characters"
  ]
 }
