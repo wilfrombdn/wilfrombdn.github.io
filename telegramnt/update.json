@@ -1,11 +1,12 @@
 {
- "code": 74,
- "name": "7.9",
- "apk": "/telegramnt/tellem-7.9.apk",
- "sha256": "cbe3a74e124d772808e385e2a385051cf44c7d28c07f3e70abaed251b0ab065d",
+ "code": 75,
+ "name": "8.0",
+ "apk": "/telegramnt/tellem-8.0.apk",
+ "sha256": "cf3076fdb4c1fe09667f4fb3c1ab16b4a18c848dcf17f65773aacbeafe63d848",
  "notes": [
-  "Round button is white in dark mode and black in light mode; hold it and it grows smoothly into a sharp camera, slide your finger off to cancel",
-  "Tap anywhere on the Tellem | Phone switch to change screens; the title at the top no longer does that",
-  "Phone, Texts, Calls and backing out of a text chat open faster"
+  "Phone screen: swipe left or right to move between Contacts, Calls and Texts; hold a text for half a second, then swipe to archive (envelope) or delete",
+  "Swipe right from the very left edge to pull out the sidebar; tapping empty space on the sidebar no longer taps the screen behind it",
+  "The round button moved up and toward the middle, easier to reach with either thumb",
+  "Tellem | Phone switch changes screens when you tap anywhere on it"
  ]
 }
