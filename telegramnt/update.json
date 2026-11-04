@@ -1,11 +1,12 @@
 {
- "code": 96,
- "name": "10.3",
- "apk": "/telegramnt/tellem-10.3.apk",
- "sha256": "5139742bcd0da84c9aaa45f87f033df7aa67ecb71b063901562586f3e824c44d",
+ "code": 97,
+ "name": "10.4",
+ "apk": "/telegramnt/tellem-10.4.apk",
+ "sha256": "015e39d20e5be511b272efe6acca6bbedc5fd6cb31e31e4a048d19ae2da3a86f",
  "notes": [
-  "Cleaner pop-ups: square corners, buttons in the bottom right",
-  "Contacts: tap the pencil in the top corner to edit",
-  "The scroll bar only shows while you scroll, so it no longer flickers when you swipe between screens"
+  "New look: shaded-top pop-ups, squared corners, no blue",
+  "Tighter contact card and tidier call log with a white send button",
+  "Call screen buttons always respond, bigger dial pad",
+  "Smoother scrolling and a faster camera shutter"
  ]
 }
