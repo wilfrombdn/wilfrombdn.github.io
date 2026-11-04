@@ -1,11 +1,11 @@
 {
- "code": 69,
- "name": "7.4",
- "apk": "/telegramnt/tellem-7.4.apk",
- "sha256": "fe143173acf9201855b560c7452d2fd25d1a6b31afdf5e32c6d7037bb2324f7d",
+ "code": 70,
+ "name": "7.5",
+ "apk": "/telegramnt/tellem-7.5.apk",
+ "sha256": "1a96898152e06111f9344bbf0176d7c93611ad8b6a03e37f50eff9eecdcddf92",
  "notes": [
-  "New dial pad layout, centred like a normal phone, with Create contact and Send message once you type a number",
-  "Phone numbers now look like +1 (555) 123-4567 everywhere you type them",
-  "Texts: swipe right to archive a chat right away (hold a chat for Move to spam)"
+  "Snap: hold the pencil, slide onto Snap and let go to open the camera, add a caption, and send it to Tellem friends or by text",
+  "Saved Messages: long-press any Tellem message or text and tap Save. The chat appears after your first save",
+  "New setting to keep Saved Messages in the Tellem window only"
  ]
 }
