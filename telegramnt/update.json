@@ -1,10 +1,9 @@
 {
- "code": 89,
- "name": "9.6",
- "apk": "/telegramnt/tellem-9.6.apk",
- "sha256": "e7d325e37b050fcdb0bd899ea96fca2d6e28c98f4f26dd52d4c4975753f45558",
+ "code": 90,
+ "name": "9.7",
+ "apk": "/telegramnt/tellem-9.7.apk",
+ "sha256": "44a684bca52840e14d6f41741be35c0dd182eee31814be52dd8649a8b873ea5b",
  "notes": [
-  "Fixed the profile pictures for normal texts so they show as clear grey discs",
-  "Chats with friends keep their new soft pictures"
+  "Phone contacts now get the new grey profile pictures too"
  ]
 }
