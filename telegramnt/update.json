@@ -1,12 +1,12 @@
 {
- "code": 71,
- "name": "7.6",
- "apk": "/telegramnt/tellem-7.6.apk",
- "sha256": "aee2f07a9ebf260768353ec41de4eb53a7cb3235d88b6e13d897caeddb9a0d23",
+ "code": 72,
+ "name": "7.7",
+ "apk": "/telegramnt/tellem-7.7.apk",
+ "sha256": "07753c3132c2d96d1180202e5b8e95f27cc9e807964182c9ec981c235a705856",
  "notes": [
-  "The round button is now a camera, and in-app camera photos fill the whole screen at full size",
-  "Camera: new flash button and a 3, 6 or 10 second timer (both reset each time you open the camera)",
-  "Fixes: picking a contact for a new text, and several crashes on older Android phones",
-  "Lots of behind-the-scenes cleanup so the app is tidier and a little faster"
+  "Camera button: tap does what it always did, hold and let go to snap right away (no menu)",
+  "New Tellem | Phone switch at the bottom left, easy to hit with one thumb",
+  "Camera reacts faster when you take a photo, and the Phone area is smoother",
+  "Camera photos still fill the screen at full size"
  ]
 }
