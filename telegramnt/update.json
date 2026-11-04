@@ -1,10 +1,11 @@
 {
- "code": 91,
- "name": "9.8",
- "apk": "/telegramnt/tellem-9.8.apk",
- "sha256": "e521a6039face70162537e08f4271590ac555202000a3495166330ff361dbeab",
+ "code": 92,
+ "name": "9.9",
+ "apk": "/telegramnt/tellem-9.9.apk",
+ "sha256": "042fbb342bdf144f0fa07c21be7dbd6a6236d180739241e2bd168139e5576cfd",
  "notes": [
-  "Android back on the Phone screen now goes to Tellem first",
-  "Fixed the camera button not responding after backing out of the camera"
+  "Choose your own bubble colour for normal texts in Appearance",
+  "The Phone button's unread badge now matches that colour",
+  "Text contact pictures have a small gap inside their rim"
  ]
 }
