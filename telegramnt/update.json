@@ -1,10 +1,12 @@
 {
- "code": 87,
- "name": "9.4",
- "apk": "/telegramnt/tellem-9.4.apk",
- "sha256": "65a3b2b0e7008929447b03a056eca5850acc347b0931aec1dd7f95b5688c8b21",
+ "code": 88,
+ "name": "9.5",
+ "apk": "/telegramnt/tellem-9.5.apk",
+ "sha256": "73e62d1a999e51ca8bcd7e778002f1efaed046cb6aaf013400ab0c73f7b2bf6b",
  "notes": [
-  "Fixes Tellem not opening on some phones after 9.3",
-  "Russian and Ukrainian are paused for now and will come back once fixed"
+  "Pinch with two fingers in a chat to make the text bigger or smaller",
+  "New soft grey profile pictures, different for everyone, instead of coloured circles",
+  "Settings are tidier, with arrows on the rows that open something",
+  "Hold the camera button for a shorter time to open the camera"
  ]
 }
