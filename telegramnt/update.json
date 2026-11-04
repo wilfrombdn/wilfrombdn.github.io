@@ -1,12 +1,11 @@
 {
- "code": 72,
- "name": "7.7",
- "apk": "/telegramnt/tellem-7.7.apk",
- "sha256": "07753c3132c2d96d1180202e5b8e95f27cc9e807964182c9ec981c235a705856",
+ "code": 73,
+ "name": "7.8",
+ "apk": "/telegramnt/tellem-7.8.apk",
+ "sha256": "f571060dcc49756a189b42fa8bb2f89c5191d13ed6c82b698b0207f73a37f1d4",
  "notes": [
-  "Camera button: tap does what it always did, hold and let go to snap right away (no menu)",
-  "New Tellem | Phone switch at the bottom left, easy to hit with one thumb",
-  "Camera reacts faster when you take a photo, and the Phone area is smoother",
-  "Camera photos still fill the screen at full size"
+  "The round button is now the right icon: a pencil for chats and texts, a phone on Calls, a plus on Contacts",
+  "Hold the button and it turns into a camera and grows bigger; let go to open Snap",
+  "The icon is white in dark mode and black in light mode"
  ]
 }
