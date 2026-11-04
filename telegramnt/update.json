@@ -1,11 +1,10 @@
 {
- "code": 92,
- "name": "9.9",
- "apk": "/telegramnt/tellem-9.9.apk",
- "sha256": "042fbb342bdf144f0fa07c21be7dbd6a6236d180739241e2bd168139e5576cfd",
+ "code": 93,
+ "name": "10.0",
+ "apk": "/telegramnt/tellem-10.0.apk",
+ "sha256": "c6cdeabfe5edf1ec89d1d759e2bfbbd279fe5f315a68617ac0fedbef1d7cd4f0",
  "notes": [
-  "Choose your own bubble colour for normal texts in Appearance",
-  "The Phone button's unread badge now matches that colour",
-  "Text contact pictures have a small gap inside their rim"
+  "Calls list is simpler: tap a call to open it down with its details and Call, Text, Contact and Copy buttons",
+  "Pictures removed from the calls list"
  ]
 }
