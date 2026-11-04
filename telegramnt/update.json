@@ -1,11 +1,12 @@
 {
- "code": 81,
- "name": "8.6",
- "apk": "/telegramnt/tellem-8.6.apk",
- "sha256": "865f903da7bd45598fb59ecf342d0a6756ab755fa07119bbf366df43a3557635",
+ "code": 82,
+ "name": "8.7",
+ "apk": "/telegramnt/tellem-8.7.apk",
+ "sha256": "6b5eb95053b5716d5c4bc7bb771ffaa225ec838c0aa24613ca056bbd048dfa05",
  "notes": [
-  "Speaker button on Tellem calls now works on newer Android phones",
-  "Contacts: add a Company, and tap the circle to give a contact your own photo; sort button next to search (name or email, A to Z or Z to A, group by company)",
-  "Every text box in the app is now a clean rounded box instead of a thin line"
+  "Contact pop-up now shows company and email: tap an email to write to them in an email app, hold a number or email to copy it",
+  "Tap and hold the round button: Snap opens by itself at the end of the hold; the button no longer jumps around between tabs and screens",
+  "Contact screen spacing tidied up; Animations setting moved into Appearance",
+  "Speaker button on Tellem calls now also works while the call is still ringing"
  ]
 }
