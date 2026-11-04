@@ -1,10 +1,11 @@
 {
- "code": 79,
- "name": "8.4",
- "apk": "/telegramnt/tellem-8.4.apk",
- "sha256": "d9699ae85a169ff2b0c765cacab9f444d3ee9b07d8b2c00de9d5e1d34f20f73a",
+ "code": 80,
+ "name": "8.5",
+ "apk": "/telegramnt/tellem-8.5.apk",
+ "sha256": "02b4fccb72d8165b632169e5da239fc272c5117f6d43e0fcd908120e204c1710",
  "notes": [
-  "Edit contacts: open a contact and tap Edit contact (first option) to change the name, numbers or email, then Save or Cancel",
-  "Tapping a call in your Calls list now opens the same Call or Text pop-up as Contacts, with Add to contacts for numbers you haven't saved"
+  "New contact and Edit contact screens redone: big initials circle, a tidy name and number layout, labels you can tap (Mobile, Home, Work, Other), several numbers and emails, and Save up top",
+  "Edit contact is now only in the Contacts pop-up, not the Calls one",
+  "Fast taps between tabs and between Tellem and Phone no longer pile up, so the slides stay smooth"
  ]
 }
