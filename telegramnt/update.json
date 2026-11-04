@@ -1,11 +1,11 @@
 {
- "code": 73,
- "name": "7.8",
- "apk": "/telegramnt/tellem-7.8.apk",
- "sha256": "f571060dcc49756a189b42fa8bb2f89c5191d13ed6c82b698b0207f73a37f1d4",
+ "code": 74,
+ "name": "7.9",
+ "apk": "/telegramnt/tellem-7.9.apk",
+ "sha256": "cbe3a74e124d772808e385e2a385051cf44c7d28c07f3e70abaed251b0ab065d",
  "notes": [
-  "The round button is now the right icon: a pencil for chats and texts, a phone on Calls, a plus on Contacts",
-  "Hold the button and it turns into a camera and grows bigger; let go to open Snap",
-  "The icon is white in dark mode and black in light mode"
+  "Round button is white in dark mode and black in light mode; hold it and it grows smoothly into a sharp camera, slide your finger off to cancel",
+  "Tap anywhere on the Tellem | Phone switch to change screens; the title at the top no longer does that",
+  "Phone, Texts, Calls and backing out of a text chat open faster"
  ]
 }
