@@ -1,12 +1,11 @@
 {
- "code": 108,
- "name": "11.8",
- "apk": "/telegramnt/tellem-11.8.apk",
- "sha256": "f3eab0c880cfe77e86a7fafc5431a226beb39a73d51c6259aba9d6ba12d60829",
+ "code": 109,
+ "name": "11.9",
+ "apk": "/telegramnt/tellem-11.9.apk",
+ "sha256": "47eacde0650e79bb929ec5dfc72a94c8d13ef719cf453faa7af9b7633f911b7b",
  "notes": [
-  "Dead Letter level 3 rebuilt: three raised conveyors you leap between with left and right taps, speeding up, then a violent launch into the jetpack",
-  "Jetpack run now has rockets with a warning, saw blades and laser fences, and the cop drags you into his cruiser",
-  "Your Dead Letter songs now play at the right moments (sound is on by default)",
-  "Much more detailed warehouse art"
+  "Dead Letter conveyor level: new things to dodge (jump barriers, holes, a runaway forklift, a saw, falling crates), jump with a swipe up and collect 100 coins",
+  "Dead Letter is now edge to edge with a see-through blurred title bar, and Pac-Man never stops moving, has a floating joystick, and restarts when you tap after dying",
+  "The cop in the jetpack scene has his new speech, level 1 and 4 keep the old ambience, and the level 2 street has neighbours talking"
  ]
 }
