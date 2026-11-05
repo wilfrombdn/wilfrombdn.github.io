@@ -1,11 +1,11 @@
 {
- "code": 105,
- "name": "11.5",
- "apk": "/telegramnt/tellem-11.5.apk",
- "sha256": "ef36c19fb933bd223924e6e00f76c7abc63008fac6bab25b6b10e2bde42d321b",
+ "code": 106,
+ "name": "11.6",
+ "apk": "/telegramnt/tellem-11.6.apk",
+ "sha256": "f9ba16374dc0fefb4f5c3d08dfd0dbe74e58cd487f0fbd95738518397b6bf237",
  "notes": [
-  "Dead Letter has Restart and Exit buttons in the title bar",
-  "The cop at the fork now faces you, says dots, lowers his head and walks slowly out a side street",
-  "The vendor watches him go, walks out to meet you, waits, says a line and crosses himself"
+  "Dead Letter level 2 is rebuilt: your contact leads you to a manhole, the sewers are a real Pac-Man with police as the ghosts, then a maintenance worker and a ladder",
+  "Movement is now a joystick at the bottom left",
+  "Restart button sits next to Exit: tap restarts the level, hold goes back to level 1"
  ]
 }
