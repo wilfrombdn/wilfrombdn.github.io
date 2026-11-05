@@ -1,12 +1,11 @@
 {
- "code": 98,
- "name": "10.5",
- "apk": "/telegramnt/tellem-10.5.apk",
- "sha256": "ba60d454f13a09091e1f8581783fbd28241a43872d8f62026cdd45810692b403",
+ "code": 99,
+ "name": "10.6",
+ "apk": "/telegramnt/tellem-10.6.apk",
+ "sha256": "f21452d21c80a0c946fd9f86145e50dfbfe464d112318f1b528cd0dc81d72ff8",
  "notes": [
-  "Phone avatars get a subtle colourful marble streak, different for every contact",
-  "The contact page uses the same avatar as the lists",
-  "Switches turn green when on",
-  "The Contacts / Calls / Texts underline now glides between tabs"
+  "Contacts, Calls and Texts moved into the sidebar; the title at the top shows which one you're on",
+  "Texts now have reactions, sent the way Google Messages does it",
+  "Reactions on texts show under the bubble and can be tapped to change"
  ]
 }
