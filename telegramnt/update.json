@@ -1,12 +1,10 @@
 {
- "code": 100,
- "name": "11.0",
- "apk": "/telegramnt/tellem-11.0.apk",
- "sha256": "376ee445674314b97d1ba5a99456a2c6b489624a11b81ab1557af159482a13f4",
+ "code": 101,
+ "name": "11.1",
+ "apk": "/telegramnt/tellem-11.1.apk",
+ "sha256": "ca09cbc8fe2f5e5e51c7a0598625b2afa25a351550d728331a1356dafa891d26",
  "notes": [
-  "Groups are much stronger: admins can remove people, and you can share a join link that admins approve",
-  "Groups get a photo, a description, and a disappearing-messages timer",
-  "Mentions and replies ring even in a muted group, and @everyone for admins",
-  "Text groups get a photo, mute, search, a photos gallery, and a one-tap move to Tellem"
+  "New hidden game: tap the version at the bottom of Settings 7 times",
+  "Small fixes"
  ]
 }
