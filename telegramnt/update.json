@@ -1,9 +1,11 @@
 {
- "code": 114,
- "name": "12.4",
- "apk": "/telegramnt/tellem-12.4.apk",
- "sha256": "d6cfac18f5c3e85a272b750f2420cbc3abdd6d94ae7080a7c65be3bee77e2f9f",
+ "code": 115,
+ "name": "12.5",
+ "apk": "/telegramnt/tellem-12.5.apk",
+ "sha256": "9b16b6eb167a2762653e69874ee4e1dc11fe87028025d1eaf425ee447814ac58",
  "notes": [
-  "Dead Letter: the maintenance room under the street now fits your screen instead of being zoomed in"
+  "Dead Letter: the whole game fills your screen, and the prison is stricter, with guards who walk you to every duty",
+  "Inmates and guards to talk to, a new look for you, and a climb down the manhole into the sewer",
+  "Fixes: the conveyor double jump, the Pac-Man song starts right away"
  ]
 }
