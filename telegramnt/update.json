@@ -1,11 +1,12 @@
 {
- "code": 109,
- "name": "11.9",
- "apk": "/telegramnt/tellem-11.9.apk",
- "sha256": "47eacde0650e79bb929ec5dfc72a94c8d13ef719cf453faa7af9b7633f911b7b",
+ "code": 110,
+ "name": "12.0",
+ "apk": "/telegramnt/tellem-12.0.apk",
+ "sha256": "983cc89d61e2448a652674c3bcc31cd6a1d7fb15d7a3b56d546988c546a95f3f",
  "notes": [
-  "Dead Letter conveyor level: new things to dodge (jump barriers, holes, a runaway forklift, a saw, falling crates), jump with a swipe up and collect 100 coins",
-  "Dead Letter is now edge to edge with a see-through blurred title bar, and Pac-Man never stops moving, has a floating joystick, and restarts when you tap after dying",
-  "The cop in the jetpack scene has his new speech, level 1 and 4 keep the old ambience, and the level 2 street has neighbours talking"
+  "Dead Letter now fills the whole screen",
+  "The town hall: new arrival scene with SWAT, a huge lobby and rooms to clear, grenades, rolling and cover, and a new ending",
+  "The sewer maze gets easier each time you are caught",
+  "Fewer text bubbles in the first alley"
  ]
 }
