@@ -1,10 +1,10 @@
 {
- "code": 111,
- "name": "12.1",
- "apk": "/telegramnt/tellem-12.1.apk",
- "sha256": "6bef3feb000ee41cffccbd3876aa8fe92dabfb73caaccb4badb951fbfa7f41cc",
+ "code": 112,
+ "name": "12.2",
+ "apk": "/telegramnt/tellem-12.2.apk",
+ "sha256": "3ebc5144250acb9b07d015bdde615d104a859a2a67c665aca2478c4b1b246488",
  "notes": [
-  "Dead Letter level 5 is now a prison break: live the daily routine, work your laundry shifts, and find a way out",
-  "Six ways to escape, but send a signal first or nobody comes to pick you up"
+  "Dead Letter has a real ending: land on the beach, climb the radio tower, and get the evidence on the air",
+  "Sound effects in the last level"
  ]
 }
