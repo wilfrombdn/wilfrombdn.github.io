@@ -1,10 +1,10 @@
 {
- "code": 112,
- "name": "12.2",
- "apk": "/telegramnt/tellem-12.2.apk",
- "sha256": "3ebc5144250acb9b07d015bdde615d104a859a2a67c665aca2478c4b1b246488",
+ "code": 113,
+ "name": "12.3",
+ "apk": "/telegramnt/tellem-12.3.apk",
+ "sha256": "0c29af4d080d1706202396c006c4fb1def91549afd09f17b130967350fac1436",
  "notes": [
-  "Dead Letter has a real ending: land on the beach, climb the radio tower, and get the evidence on the air",
-  "Sound effects in the last level"
+  "Dead Letter conveyor: swipe to switch belts, jumps grab every coin, and a whole new warehouse look",
+  "Better coins, a more detailed jetpack hall, and a cinematic beach in the last level"
  ]
 }
