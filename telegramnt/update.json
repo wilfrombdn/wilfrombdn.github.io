@@ -1,11 +1,11 @@
 {
- "code": 104,
- "name": "11.4",
- "apk": "/telegramnt/tellem-11.4.apk",
- "sha256": "3eb07f1414932edb25df2160e15284eb9bbc4e56c5326be4987c72b281b37f81",
+ "code": 105,
+ "name": "11.5",
+ "apk": "/telegramnt/tellem-11.5.apk",
+ "sha256": "ef36c19fb933bd223924e6e00f76c7abc63008fac6bab25b6b10e2bde42d321b",
  "notes": [
-  "Dead Letter level 1 is now a walking story in new three-quarter pixel art: alleys, radio windows, police lights and a cop at the fork",
-  "People and police are redrawn so they look like people and police",
-  "The map is bigger and zoomed out, and scrolls as you walk"
+  "Dead Letter has Restart and Exit buttons in the title bar",
+  "The cop at the fork now faces you, says dots, lowers his head and walks slowly out a side street",
+  "The vendor watches him go, walks out to meet you, waits, says a line and crosses himself"
  ]
 }
