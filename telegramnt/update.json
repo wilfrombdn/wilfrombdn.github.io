@@ -1,10 +1,11 @@
 {
- "code": 101,
- "name": "11.1",
- "apk": "/telegramnt/tellem-11.1.apk",
- "sha256": "ca09cbc8fe2f5e5e51c7a0598625b2afa25a351550d728331a1356dafa891d26",
+ "code": 102,
+ "name": "11.2",
+ "apk": "/telegramnt/tellem-11.2.apk",
+ "sha256": "d167870ccfabea97bbfaed86989d50d45f5bac383ea464fa6ad248c68a1296f9",
  "notes": [
-  "New hidden game: tap the version at the bottom of Settings 7 times",
-  "Small fixes"
+  "The hidden game is now DEAD LETTER: a top-down stealth story in six levels (tap the version at the bottom of Settings 7 times)",
+  "Sneak past guards, cameras and lasers to deliver six letters",
+  "Optional music, off by default"
  ]
 }
