@@ -1,12 +1,12 @@
 {
- "code": 97,
- "name": "10.4",
- "apk": "/telegramnt/tellem-10.4.apk",
- "sha256": "015e39d20e5be511b272efe6acca6bbedc5fd6cb31e31e4a048d19ae2da3a86f",
+ "code": 98,
+ "name": "10.5",
+ "apk": "/telegramnt/tellem-10.5.apk",
+ "sha256": "ba60d454f13a09091e1f8581783fbd28241a43872d8f62026cdd45810692b403",
  "notes": [
-  "New look: shaded-top pop-ups, squared corners, no blue",
-  "Tighter contact card and tidier call log with a white send button",
-  "Call screen buttons always respond, bigger dial pad",
-  "Smoother scrolling and a faster camera shutter"
+  "Phone avatars get a subtle colourful marble streak, different for every contact",
+  "The contact page uses the same avatar as the lists",
+  "Switches turn green when on",
+  "The Contacts / Calls / Texts underline now glides between tabs"
  ]
 }
