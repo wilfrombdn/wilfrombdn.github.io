@@ -1,11 +1,11 @@
 {
- "code": 102,
- "name": "11.2",
- "apk": "/telegramnt/tellem-11.2.apk",
- "sha256": "d167870ccfabea97bbfaed86989d50d45f5bac383ea464fa6ad248c68a1296f9",
+ "code": 103,
+ "name": "11.3",
+ "apk": "/telegramnt/tellem-11.3.apk",
+ "sha256": "b4adf7fba3e48cb4ab88e2f4a674f892e306bc4ce99f17a466c2f61005181818",
  "notes": [
-  "The hidden game is now DEAD LETTER: a top-down stealth story in six levels (tap the version at the bottom of Settings 7 times)",
-  "Sneak past guards, cameras and lasers to deliver six letters",
-  "Optional music, off by default"
+  "Dead Letter level 1 is now night-time pixel art, with neon windows blasting radio about Mr. Tellem",
+  "New controls: the courier walks toward your finger. Keep it close to sneak, pull it far away to sprint",
+  "Guards now lock on and chase you, and your contact shoots them (but not the priest)"
  ]
 }
