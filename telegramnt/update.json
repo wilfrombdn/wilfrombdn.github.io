@@ -1,11 +1,11 @@
 {
- "code": 106,
- "name": "11.6",
- "apk": "/telegramnt/tellem-11.6.apk",
- "sha256": "f9ba16374dc0fefb4f5c3d08dfd0dbe74e58cd487f0fbd95738518397b6bf237",
+ "code": 107,
+ "name": "11.7",
+ "apk": "/telegramnt/tellem-11.7.apk",
+ "sha256": "8f21c611f8a27038d5dee6206715d3e84f92112168fda58901aacb9b07d367de",
  "notes": [
-  "Dead Letter level 2 is rebuilt: your contact leads you to a manhole, the sewers are a real Pac-Man with police as the ghosts, then a maintenance worker and a ladder",
-  "Movement is now a joystick at the bottom left",
-  "Restart button sits next to Exit: tap restarts the level, hold goes back to level 1"
+  "Dead Letter level 3 rebuilt: conveyor belts, then a jetpack coin run, then the cop drives you off",
+  "Dead Letter level 4 rebuilt: town hall arrival and a top-down shoot-out ending with the mayor",
+  "Tap anywhere to restart Pac-Man after getting caught, and a skip-level arrow in the game title bar"
  ]
 }
