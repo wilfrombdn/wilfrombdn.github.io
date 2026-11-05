@@ -1,11 +1,11 @@
 {
- "code": 103,
- "name": "11.3",
- "apk": "/telegramnt/tellem-11.3.apk",
- "sha256": "b4adf7fba3e48cb4ab88e2f4a674f892e306bc4ce99f17a466c2f61005181818",
+ "code": 104,
+ "name": "11.4",
+ "apk": "/telegramnt/tellem-11.4.apk",
+ "sha256": "3eb07f1414932edb25df2160e15284eb9bbc4e56c5326be4987c72b281b37f81",
  "notes": [
-  "Dead Letter level 1 is now night-time pixel art, with neon windows blasting radio about Mr. Tellem",
-  "New controls: the courier walks toward your finger. Keep it close to sneak, pull it far away to sprint",
-  "Guards now lock on and chase you, and your contact shoots them (but not the priest)"
+  "Dead Letter level 1 is now a walking story in new three-quarter pixel art: alleys, radio windows, police lights and a cop at the fork",
+  "People and police are redrawn so they look like people and police",
+  "The map is bigger and zoomed out, and scrolls as you walk"
  ]
 }
