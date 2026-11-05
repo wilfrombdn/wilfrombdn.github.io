@@ -1,11 +1,12 @@
 {
- "code": 99,
- "name": "10.6",
- "apk": "/telegramnt/tellem-10.6.apk",
- "sha256": "f21452d21c80a0c946fd9f86145e50dfbfe464d112318f1b528cd0dc81d72ff8",
+ "code": 100,
+ "name": "11.0",
+ "apk": "/telegramnt/tellem-11.0.apk",
+ "sha256": "376ee445674314b97d1ba5a99456a2c6b489624a11b81ab1557af159482a13f4",
  "notes": [
-  "Contacts, Calls and Texts moved into the sidebar; the title at the top shows which one you're on",
-  "Texts now have reactions, sent the way Google Messages does it",
-  "Reactions on texts show under the bubble and can be tapped to change"
+  "Groups are much stronger: admins can remove people, and you can share a join link that admins approve",
+  "Groups get a photo, a description, and a disappearing-messages timer",
+  "Mentions and replies ring even in a muted group, and @everyone for admins",
+  "Text groups get a photo, mute, search, a photos gallery, and a one-tap move to Tellem"
  ]
 }
