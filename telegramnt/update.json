@@ -1,10 +1,9 @@
 {
- "code": 113,
- "name": "12.3",
- "apk": "/telegramnt/tellem-12.3.apk",
- "sha256": "0c29af4d080d1706202396c006c4fb1def91549afd09f17b130967350fac1436",
+ "code": 114,
+ "name": "12.4",
+ "apk": "/telegramnt/tellem-12.4.apk",
+ "sha256": "d6cfac18f5c3e85a272b750f2420cbc3abdd6d94ae7080a7c65be3bee77e2f9f",
  "notes": [
-  "Dead Letter conveyor: swipe to switch belts, jumps grab every coin, and a whole new warehouse look",
-  "Better coins, a more detailed jetpack hall, and a cinematic beach in the last level"
+  "Dead Letter: the maintenance room under the street now fits your screen instead of being zoomed in"
  ]
 }
