@@ -1,11 +1,12 @@
 {
- "code": 107,
- "name": "11.7",
- "apk": "/telegramnt/tellem-11.7.apk",
- "sha256": "8f21c611f8a27038d5dee6206715d3e84f92112168fda58901aacb9b07d367de",
+ "code": 108,
+ "name": "11.8",
+ "apk": "/telegramnt/tellem-11.8.apk",
+ "sha256": "f3eab0c880cfe77e86a7fafc5431a226beb39a73d51c6259aba9d6ba12d60829",
  "notes": [
-  "Dead Letter level 3 rebuilt: conveyor belts, then a jetpack coin run, then the cop drives you off",
-  "Dead Letter level 4 rebuilt: town hall arrival and a top-down shoot-out ending with the mayor",
-  "Tap anywhere to restart Pac-Man after getting caught, and a skip-level arrow in the game title bar"
+  "Dead Letter level 3 rebuilt: three raised conveyors you leap between with left and right taps, speeding up, then a violent launch into the jetpack",
+  "Jetpack run now has rockets with a warning, saw blades and laser fences, and the cop drags you into his cruiser",
+  "Your Dead Letter songs now play at the right moments (sound is on by default)",
+  "Much more detailed warehouse art"
  ]
 }
