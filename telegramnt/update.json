@@ -1,12 +1,10 @@
 {
- "code": 110,
- "name": "12.0",
- "apk": "/telegramnt/tellem-12.0.apk",
- "sha256": "983cc89d61e2448a652674c3bcc31cd6a1d7fb15d7a3b56d546988c546a95f3f",
+ "code": 111,
+ "name": "12.1",
+ "apk": "/telegramnt/tellem-12.1.apk",
+ "sha256": "6bef3feb000ee41cffccbd3876aa8fe92dabfb73caaccb4badb951fbfa7f41cc",
  "notes": [
-  "Dead Letter now fills the whole screen",
-  "The town hall: new arrival scene with SWAT, a huge lobby and rooms to clear, grenades, rolling and cover, and a new ending",
-  "The sewer maze gets easier each time you are caught",
-  "Fewer text bubbles in the first alley"
+  "Dead Letter level 5 is now a prison break: live the daily routine, work your laundry shifts, and find a way out",
+  "Six ways to escape, but send a signal first or nobody comes to pick you up"
  ]
 }
