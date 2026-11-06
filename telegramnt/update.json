@@ -1,12 +1,12 @@
 {
- "code": 117,
- "name": "12.7",
- "apk": "/telegramnt/tellem-12.7.apk",
- "sha256": "7397ee2cb91f80a0a253d3cf9317964223f0db75c20c3f40711c8d09c5d777ea",
+ "code": 118,
+ "name": "12.8",
+ "apk": "/telegramnt/tellem-12.8.apk",
+ "sha256": "a0dfd45d9d21e0307a5cd65614f18903929bac46175602070e3d121d7a06ca0f",
  "notes": [
-  "Dead Letter: a brand new ending, live on the radio",
-  "After you beat it, play every mini-game as a full arcade game",
-  "New contact scenes, the hostage walk-in and the mayor's kick",
-  "Prison roll call, getting caught, and earning trust"
+  "Dead Letter prison: nobody teleports, guards walk properly",
+  "Sit down to eat at breakfast, guards on every door, three hearts",
+  "Swipe up in the prison to see your things",
+  "The radio voice in the ending is a bit quieter"
  ]
 }
