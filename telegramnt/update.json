@@ -1,11 +1,10 @@
 {
- "code": 124,
- "name": "13.4",
- "apk": "/telegramnt/tellem-13.4.apk",
- "sha256": "7c74e918e67abe6ab4b2b3d9ca2e7bbceeb673af7ee15e46279e6b6623b16c66",
+ "code": 125,
+ "name": "13.5",
+ "apk": "/telegramnt/tellem-13.5.apk",
+ "sha256": "230ffd13824bc82ee8962947bff7cad2d4a940870297121e781ead455ecd9ef3",
  "notes": [
-  "Cruiser ride: proper flashing police lights, no more box",
-  "Fixed stray flashing rectangles (conveyor forklift, last scene)",
-  "Credits spaced out, rolling after the title leaves"
+  "Last scene: voice much quieter, music louder, still bloody when pushed over",
+  "Town hall: hostage shouts for help, you roll to the desk and flip the whole thing, spilling everything"
  ]
 }
