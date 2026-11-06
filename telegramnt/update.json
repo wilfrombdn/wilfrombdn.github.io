@@ -1,11 +1,12 @@
 {
- "code": 120,
- "name": "13.0",
- "apk": "/telegramnt/tellem-13.0.apk",
- "sha256": "1ea4c499cd884064a8da657ee8750e006711a23ff3d1f521f9b3ee0d54a60120",
+ "code": 121,
+ "name": "13.1",
+ "apk": "/telegramnt/tellem-13.1.apk",
+ "sha256": "c4e09e06c80f30066ff7e74a6816e4fdf06538faa35340e415bb12e2cdb1fc9b",
  "notes": [
-  "Fixed the black screen at the start of the warehouse conveyor",
-  "Removed the Letter II pop-up at the sewer ladder",
-  "Story lines and messages stay up longer so you can read them"
+  "Prison: skip your jobs if no guard sees you",
+  "Meals are optional and the best time to chat, with new lines every day",
+  "Big events every other day: brawls, an arrest, an escape and more",
+  "Shower room no longer hidden under the top bar"
  ]
 }
