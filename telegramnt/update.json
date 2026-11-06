@@ -1,11 +1,11 @@
 {
- "code": 123,
- "name": "13.3",
- "apk": "/telegramnt/tellem-13.3.apk",
- "sha256": "28a5245dc0aed8cc9d32d9684bf56c51ef00d4c688669ed2881ca3103a1aaa42",
+ "code": 124,
+ "name": "13.4",
+ "apk": "/telegramnt/tellem-13.4.apk",
+ "sha256": "7c74e918e67abe6ab4b2b3d9ca2e7bbceeb673af7ee15e46279e6b6623b16c66",
  "notes": [
-  "Pac-Man crash fixed",
-  "Cruiser ride: building lights no longer flicker",
-  "Last scene: voice quieter, music louder, shot-up man the right size"
+  "Cruiser ride: proper flashing police lights, no more box",
+  "Fixed stray flashing rectangles (conveyor forklift, last scene)",
+  "Credits spaced out, rolling after the title leaves"
  ]
 }
