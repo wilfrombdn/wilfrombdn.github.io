@@ -1,11 +1,11 @@
 {
- "code": 122,
- "name": "13.2",
- "apk": "/telegramnt/tellem-13.2.apk",
- "sha256": "9a862254a557dea1ab2f0ae842423f81a6fdcffdaa3af4d54923cbcf86c9a9e9",
+ "code": 123,
+ "name": "13.3",
+ "apk": "/telegramnt/tellem-13.3.apk",
+ "sha256": "28a5245dc0aed8cc9d32d9684bf56c51ef00d4c688669ed2881ca3103a1aaa42",
  "notes": [
-  "Dead Letter: new songs for the Pac-Man maze, shoot-out, mayor, call for help and credits",
-  "Pac-Man steering fixes",
-  "Shoot-out intro timing, a bloodier last scene, and funny credits"
+  "Pac-Man crash fixed",
+  "Cruiser ride: building lights no longer flicker",
+  "Last scene: voice quieter, music louder, shot-up man the right size"
  ]
 }
