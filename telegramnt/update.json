@@ -1,12 +1,11 @@
 {
- "code": 119,
- "name": "12.9",
- "apk": "/telegramnt/tellem-12.9.apk",
- "sha256": "f55db53ec6242b6a4d2b4eaaafed06efbfbf2fcaa4c518acf95d6cce0ab45fab",
+ "code": 120,
+ "name": "13.0",
+ "apk": "/telegramnt/tellem-13.0.apk",
+ "sha256": "1ea4c499cd884064a8da657ee8750e006711a23ff3d1f521f9b3ee0d54a60120",
  "notes": [
-  "Dead Letter: new story talk with speech bubbles, the trenchcoat man, a new way into the warehouse",
-  "Car ride seen from outside, drag-to-aim grenades, hide against walls",
-  "Prison: guards leave you alone if you're on time, inmates work their shifts",
-  "A new, darker ending"
+  "Fixed the black screen at the start of the warehouse conveyor",
+  "Removed the Letter II pop-up at the sewer ladder",
+  "Story lines and messages stay up longer so you can read them"
  ]
 }
