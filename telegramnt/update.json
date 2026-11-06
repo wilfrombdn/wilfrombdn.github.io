@@ -1,12 +1,11 @@
 {
- "code": 121,
- "name": "13.1",
- "apk": "/telegramnt/tellem-13.1.apk",
- "sha256": "c4e09e06c80f30066ff7e74a6816e4fdf06538faa35340e415bb12e2cdb1fc9b",
+ "code": 122,
+ "name": "13.2",
+ "apk": "/telegramnt/tellem-13.2.apk",
+ "sha256": "9a862254a557dea1ab2f0ae842423f81a6fdcffdaa3af4d54923cbcf86c9a9e9",
  "notes": [
-  "Prison: skip your jobs if no guard sees you",
-  "Meals are optional and the best time to chat, with new lines every day",
-  "Big events every other day: brawls, an arrest, an escape and more",
-  "Shower room no longer hidden under the top bar"
+  "Dead Letter: new songs for the Pac-Man maze, shoot-out, mayor, call for help and credits",
+  "Pac-Man steering fixes",
+  "Shoot-out intro timing, a bloodier last scene, and funny credits"
  ]
 }
