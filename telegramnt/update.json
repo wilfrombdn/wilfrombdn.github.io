@@ -1,10 +1,11 @@
 {
- "code": 125,
- "name": "13.5",
- "apk": "/telegramnt/tellem-13.5.apk",
- "sha256": "230ffd13824bc82ee8962947bff7cad2d4a940870297121e781ead455ecd9ef3",
+ "code": 126,
+ "name": "13.6",
+ "apk": "/telegramnt/tellem-13.6.apk",
+ "sha256": "f77ec6f4e047f2700289f2f0365435b61a3a533a62325631557a9505d2ba6e60",
  "notes": [
-  "Last scene: voice much quieter, music louder, still bloody when pushed over",
-  "Town hall: hostage shouts for help, you roll to the desk and flip the whole thing, spilling everything"
+  "Arcade games are much bigger: four mazes with flares, a jetpack shop, four tower screens and a boss fight with the mayor",
+  "The arcade menu shows a picture of each game",
+  "Prison: no more getting stuck after a beating, and a supply boat gives you one easy way out"
  ]
 }
